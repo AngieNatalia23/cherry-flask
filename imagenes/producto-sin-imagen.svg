@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" viewBox="0 0 480 600" fill="none">
+  <defs>
+    <linearGradient id="background" x1="40" y1="32" x2="440" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4F5"/>
+      <stop offset="1" stop-color="#F7E4E8"/>
+    </linearGradient>
+    <linearGradient id="garment" x1="158" y1="148" x2="326" y2="442" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D52B49"/>
+      <stop offset="1" stop-color="#A81329"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="600" rx="28" fill="url(#background)"/>
+  <circle cx="240" cy="286" r="150" fill="#fff" fill-opacity=".58"/>
+  <path d="m179 157 61 24 61-24 67 49-38 62-28-17v168H178V251l-28 17-38-62 67-49Z" fill="url(#garment)" stroke="#8F1025" stroke-linejoin="round" stroke-width="8"/>
+  <path d="M208 169c0 18 14 32 32 32s32-14 32-32" stroke="#8F1025" stroke-linecap="round" stroke-width="8"/>
+  <text x="240" y="501" fill="#9C1931" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3" text-anchor="middle">CHERRY</text>
+  <text x="240" y="532" fill="#9C1931" fill-opacity=".7" font-family="Arial, sans-serif" font-size="14" letter-spacing="2" text-anchor="middle">MODA CON ESTILO</text>
+</svg>
